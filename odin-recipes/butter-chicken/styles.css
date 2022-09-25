@@ -1,16 +1,29 @@
-body {
-    padding: 10%;
-}
+
 
 h1 {
-    font-size: 70px;
+    font-size: 50px;
     text-align: center;
+}
+
+h2 {
+    font-size: 25px;
 }
 
 img {
     width: 600px;
     height: auto;
     float: right;
+}
+
+body {
+    padding-left: 10%;
+    padding-right: 10%;
+    background-color:beige;
+}
+
+.text {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
 }
 
 .linkback {
